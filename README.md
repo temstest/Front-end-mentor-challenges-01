@@ -1,2 +1,5 @@
-# Front-end-mentor-challenges-01
-Front end mentor challenges 01
+# Frontend Mentor - QR code component
+
+![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+
+## Welcome! 👋
